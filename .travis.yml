@@ -4,7 +4,7 @@ services:
   - docker
 
 before_install:
-  - docker build -t tokyor/rstudio rstudio
+  - docker build -t tokyor/rstudio .
 
 ## A few simple / crude tests
 script:
