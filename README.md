@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/TokyoR/rstudio.svg?branch=master)](https://travis-ci.org/TokyoR/rstudio)
+[![Build Status](https://travis-ci.org/tokyor/rstudio.svg?branch=master)](https://travis-ci.org/tokyor/rstudio)
 
 # RStudio
 
